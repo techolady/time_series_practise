@@ -1,0 +1,14 @@
+The flow of the projects goes like:
+Data Loading
+Data Description
+Differencing
+Visualization of Data
+Feature Engineering
+Resampling
+Test_Train_Split
+Naive Forecast
+Moving Average
+Auto Regression
+ARIMA
+Walk Forward ARIMA Model
+SARIMA
